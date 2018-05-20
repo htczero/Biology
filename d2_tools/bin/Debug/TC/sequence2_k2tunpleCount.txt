@@ -1,0 +1,17 @@
+k-tuple number_of_occurrences
+AA	294
+GA	243
+CA	328
+TA	203
+AG	298
+GG	251
+CG	42
+TG	295
+AC	232
+GC	203
+CC	298
+TC	228
+AT	244
+GT	182
+CT	291
+TT	344

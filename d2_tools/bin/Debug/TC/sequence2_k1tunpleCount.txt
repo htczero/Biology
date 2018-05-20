@@ -1,0 +1,5 @@
+k-tuple number_of_occurrences
+A	1081
+G	893
+C	977
+T	1083

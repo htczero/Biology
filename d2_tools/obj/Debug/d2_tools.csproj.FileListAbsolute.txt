@@ -1,0 +1,16 @@
+D:\project\TEST\d2_tools\d2_tools\bin\Debug\d2_tools.exe.config
+D:\project\TEST\d2_tools\d2_tools\bin\Debug\d2_tools.exe
+D:\project\TEST\d2_tools\d2_tools\bin\Debug\d2_tools.pdb
+D:\project\TEST\d2_tools\d2_tools\obj\Debug\d2_tools.Properties.Resources.resources
+D:\project\TEST\d2_tools\d2_tools\obj\Debug\d2_tools.csproj.GenerateResource.Cache
+D:\project\TEST\d2_tools\d2_tools\obj\Debug\d2_tools.exe
+D:\project\TEST\d2_tools\d2_tools\obj\Debug\d2_tools.pdb
+D:\project\TEST\d2_tools\d2_tools\obj\Debug\d2_tools.frm1.resources
+D:\project\d2_tools\bin\Debug\d2_tools.exe.config
+D:\project\d2_tools\obj\Debug\d2_tools.exe
+D:\project\d2_tools\obj\Debug\d2_tools.pdb
+D:\project\d2_tools\bin\Debug\d2_tools.exe
+D:\project\d2_tools\bin\Debug\d2_tools.pdb
+D:\project\d2_tools\obj\Debug\d2_tools.frm1.resources
+D:\project\d2_tools\obj\Debug\d2_tools.Properties.Resources.resources
+D:\project\d2_tools\obj\Debug\d2_tools.csproj.GenerateResource.Cache
