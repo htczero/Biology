@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d2_toolsPro", "d2_toolsPro\d2_toolsPro.csproj", "{A235D18B-3D8B-4BFA-949E-C53F19DEF1D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tset", "tset\tset.csproj", "{C7E054D5-071C-43E0-896E-B297B0958915}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFTest", "WPFTest\WPFTest.csproj", "{BC5E6CE9-BF03-4799-9117-6DE28B63B896}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A235D18B-3D8B-4BFA-949E-C53F19DEF1D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A235D18B-3D8B-4BFA-949E-C53F19DEF1D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A235D18B-3D8B-4BFA-949E-C53F19DEF1D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A235D18B-3D8B-4BFA-949E-C53F19DEF1D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7E054D5-071C-43E0-896E-B297B0958915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7E054D5-071C-43E0-896E-B297B0958915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7E054D5-071C-43E0-896E-B297B0958915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7E054D5-071C-43E0-896E-B297B0958915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC5E6CE9-BF03-4799-9117-6DE28B63B896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC5E6CE9-BF03-4799-9117-6DE28B63B896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC5E6CE9-BF03-4799-9117-6DE28B63B896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC5E6CE9-BF03-4799-9117-6DE28B63B896}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

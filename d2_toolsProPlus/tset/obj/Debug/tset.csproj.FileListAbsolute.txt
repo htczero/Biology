@@ -1,0 +1,12 @@
+D:\project\d2_toolsPro\tset\bin\Debug\tset.exe.config
+D:\project\d2_toolsPro\tset\bin\Debug\tset.exe
+D:\project\d2_toolsPro\tset\bin\Debug\tset.pdb
+D:\project\d2_toolsPro\tset\obj\Debug\tset.exe
+D:\project\d2_toolsPro\tset\obj\Debug\tset.pdb
+D:\project\d2_toolsPro\tset\obj\Debug\tset.csprojResolveAssemblyReference.cache
+D:\project\d2_toolsProPlus\tset\bin\Debug\tset.exe.config
+D:\project\d2_toolsProPlus\tset\obj\Debug\tset.exe
+D:\project\d2_toolsProPlus\tset\obj\Debug\tset.pdb
+D:\project\d2_toolsProPlus\tset\bin\Debug\tset.exe
+D:\project\d2_toolsProPlus\tset\bin\Debug\tset.pdb
+D:\project\d2_toolsProPlus\tset\obj\Debug\tset.csprojResolveAssemblyReference.cache

@@ -1,0 +1,36 @@
+D:\project\d2_toolsPro\d2_toolsPro\bin\Debug\d2_toolsPro.exe.config
+D:\project\d2_toolsPro\d2_toolsPro\bin\Debug\d2_toolsPro.exe
+D:\project\d2_toolsPro\d2_toolsPro\bin\Debug\d2_toolsPro.pdb
+D:\project\d2_toolsPro\d2_toolsPro\obj\Debug\d2_toolsPro.Form1.resources
+D:\project\d2_toolsPro\d2_toolsPro\obj\Debug\d2_toolsPro.Properties.Resources.resources
+D:\project\d2_toolsPro\d2_toolsPro\obj\Debug\d2_toolsPro.csproj.GenerateResource.Cache
+D:\project\d2_toolsPro\d2_toolsPro\obj\Debug\d2_toolsPro.exe
+D:\project\d2_toolsPro\d2_toolsPro\obj\Debug\d2_toolsPro.pdb
+D:\project\d2_toolsPro\d2_toolsPro\obj\Debug\d2_toolsPro.csprojResolveAssemblyReference.cache
+D:\project\d2_toolsPro\d2_toolsPro\obj\Debug\d2_toolsPro.TrustInfo.xml
+D:\project\d2_toolsPro\d2_toolsPro\bin\Debug\d2_toolsPro.exe.manifest
+D:\project\d2_toolsPro\d2_toolsPro\bin\Debug\d2_toolsPro.application
+D:\project\d2_toolsPro\d2_toolsPro\obj\Debug\d2_toolsPro.exe.manifest
+D:\project\d2_toolsPro\d2_toolsPro\obj\Debug\d2_toolsPro.application
+D:\project\d2_toolsProPlus\d2_toolsPro\bin\Debug\d2_toolsPro.exe.config
+D:\project\d2_toolsProPlus\d2_toolsPro\obj\Debug\d2_toolsPro.exe
+D:\project\d2_toolsProPlus\d2_toolsPro\obj\Debug\d2_toolsPro.pdb
+D:\project\d2_toolsProPlus\d2_toolsPro\bin\Debug\d2_toolsPro.exe.manifest
+D:\project\d2_toolsProPlus\d2_toolsPro\bin\Debug\d2_toolsPro.application
+D:\project\d2_toolsProPlus\d2_toolsPro\bin\Debug\d2_toolsPro.exe
+D:\project\d2_toolsProPlus\d2_toolsPro\bin\Debug\d2_toolsPro.pdb
+D:\project\d2_toolsProPlus\d2_toolsPro\obj\Debug\d2_toolsPro.csprojResolveAssemblyReference.cache
+D:\project\d2_toolsProPlus\d2_toolsPro\obj\Debug\d2_toolsPro.Form1.resources
+D:\project\d2_toolsProPlus\d2_toolsPro\obj\Debug\d2_toolsPro.Properties.Resources.resources
+D:\project\d2_toolsProPlus\d2_toolsPro\obj\Debug\d2_toolsPro.csproj.GenerateResource.Cache
+D:\project\d2_toolsProPlus\d2_toolsPro\obj\Debug\d2_toolsPro.TrustInfo.xml
+D:\project\d2_toolsProPlus\d2_toolsPro\obj\Debug\d2_toolsPro.exe.manifest
+D:\project\d2_toolsProPlus\d2_toolsPro\obj\Debug\d2_toolsPro.application
+D:\project\d2_toolsProPlus\d2_toolsPro\obj\Debug\d2_toolsPro.Form2.resources
+E:\OneDrive\C# project\Biology\d2_toolsProPlus\d2_toolsPro\obj\Debug\d2_toolsPro.csprojResolveAssemblyReference.cache
+E:\OneDrive\C# project\Biology\d2_toolsProPlus\d2_toolsPro\obj\Debug\d2_toolsPro.Form1.resources
+E:\OneDrive\C# project\Biology\d2_toolsProPlus\d2_toolsPro\obj\Debug\d2_toolsPro.Form2.resources
+E:\OneDrive\C# project\Biology\d2_toolsProPlus\d2_toolsPro\obj\Debug\d2_toolsPro.Properties.Resources.resources
+E:\OneDrive\C# project\Biology\d2_toolsProPlus\d2_toolsPro\obj\Debug\d2_toolsPro.csproj.GenerateResource.Cache
+E:\OneDrive\C# project\Biology\d2_toolsProPlus\d2_toolsPro\obj\Debug\d2_toolsPro.exe
+E:\OneDrive\C# project\Biology\d2_toolsProPlus\d2_toolsPro\obj\Debug\d2_toolsPro.pdb

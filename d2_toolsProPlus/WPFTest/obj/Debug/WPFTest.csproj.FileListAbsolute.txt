@@ -1,0 +1,9 @@
+D:\project\d2_toolsProPlus\WPFTest\bin\Debug\WPFTest.exe.config
+D:\project\d2_toolsProPlus\WPFTest\bin\Debug\WPFTest.exe
+D:\project\d2_toolsProPlus\WPFTest\bin\Debug\WPFTest.pdb
+D:\project\d2_toolsProPlus\WPFTest\obj\Debug\WPFTest.csprojResolveAssemblyReference.cache
+D:\project\d2_toolsProPlus\WPFTest\obj\Debug\WPFTest.Form1.resources
+D:\project\d2_toolsProPlus\WPFTest\obj\Debug\WPFTest.Properties.Resources.resources
+D:\project\d2_toolsProPlus\WPFTest\obj\Debug\WPFTest.csproj.GenerateResource.Cache
+D:\project\d2_toolsProPlus\WPFTest\obj\Debug\WPFTest.exe
+D:\project\d2_toolsProPlus\WPFTest\obj\Debug\WPFTest.pdb
