@@ -1,0 +1,6 @@
+D:\project\CalDistance\test\bin\Debug\test.exe.config
+D:\project\CalDistance\test\bin\Debug\test.exe
+D:\project\CalDistance\test\bin\Debug\test.pdb
+D:\project\CalDistance\test\obj\Debug\test.exe
+D:\project\CalDistance\test\obj\Debug\test.pdb
+D:\project\CalDistance\test\obj\Debug\test.csprojResolveAssemblyReference.cache
