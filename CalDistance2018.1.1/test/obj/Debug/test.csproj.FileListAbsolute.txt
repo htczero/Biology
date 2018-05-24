@@ -1,0 +1,31 @@
+D:\project\CalDistance\test\bin\Debug\test.exe.config
+D:\project\CalDistance\test\bin\Debug\test.exe
+D:\project\CalDistance\test\bin\Debug\test.pdb
+D:\project\CalDistance\test\obj\Debug\test.exe
+D:\project\CalDistance\test\obj\Debug\test.pdb
+D:\project\CalDistance\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\ZERO\OneDrive\project\CalDistance\test\bin\Debug\test.exe.config
+C:\Users\ZERO\OneDrive\project\CalDistance\test\bin\Debug\test.exe
+C:\Users\ZERO\OneDrive\project\CalDistance\test\bin\Debug\test.pdb
+C:\Users\ZERO\OneDrive\project\CalDistance\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\ZERO\OneDrive\project\CalDistance\test\obj\Debug\test.exe
+C:\Users\ZERO\OneDrive\project\CalDistance\test\obj\Debug\test.pdb
+C:\Users\ZERO\OneDrive\project\CalDistanceNew\test\bin\Debug\test.exe.config
+C:\Users\ZERO\OneDrive\project\CalDistanceNew\test\bin\Debug\test.exe
+C:\Users\ZERO\OneDrive\project\CalDistanceNew\test\bin\Debug\test.pdb
+C:\Users\ZERO\OneDrive\project\CalDistanceNew\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\ZERO\OneDrive\project\CalDistanceNew\test\obj\Debug\test.exe
+C:\Users\ZERO\OneDrive\project\CalDistanceNew\test\obj\Debug\test.pdb
+C:\Users\ZERO\OneDrive\project\Biology\CalDistanceNew\test\bin\Debug\test.exe.config
+C:\Users\ZERO\OneDrive\project\Biology\CalDistanceNew\test\bin\Debug\test.exe
+C:\Users\ZERO\OneDrive\project\Biology\CalDistanceNew\test\bin\Debug\test.pdb
+C:\Users\ZERO\OneDrive\project\Biology\CalDistanceNew\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\ZERO\OneDrive\project\Biology\CalDistanceNew\test\obj\Debug\test.exe
+C:\Users\ZERO\OneDrive\project\Biology\CalDistanceNew\test\obj\Debug\test.pdb
+E:\OneDrive\C# project\Biology\CalDistance2018\test\bin\Debug\test.exe.config
+E:\OneDrive\C# project\Biology\CalDistance2018\test\bin\Debug\test.exe
+E:\OneDrive\C# project\Biology\CalDistance2018\test\bin\Debug\test.pdb
+E:\OneDrive\C# project\Biology\CalDistance2018\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+E:\OneDrive\C# project\Biology\CalDistance2018\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+E:\OneDrive\C# project\Biology\CalDistance2018\test\obj\Debug\test.exe
+E:\OneDrive\C# project\Biology\CalDistance2018\test\obj\Debug\test.pdb
